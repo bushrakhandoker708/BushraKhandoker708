@@ -107,4 +107,4 @@ I'm **Bushra Khandoker**, a learner from Bangladesh with a passion for merging c
 ## Contact & Links
 - **GitHub:** [https://github.com/Bushraabir](https://github.com/Bushraabir)  
 - **Email:** [bushrakhandoker2@gmail.com](mailto:bushrakhandoker2@gmail.com)  
-- **Portfolio Website:** [[https://bushraabir.github.io/portfolio-bushra/](https://portfolio-bushra-khandoker.vercel.app/)]](https://portfolio-bushra-khandoker.vercel.app/)
+- **Portfolio Website:** [(https://portfolio-bushra-khandoker.vercel.app/)](https://portfolio-bushra-khandoker.vercel.app/)
