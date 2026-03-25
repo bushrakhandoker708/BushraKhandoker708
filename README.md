@@ -1,13 +1,15 @@
+
 <div align="center">
 
-# Hello 👋, I'm <span style="color: #FFD700;">Bushra Khandoker</span>
-
-<p align="center" style="font-style: italic; font-size: 1.2rem; color: #E0F7FA; max-width: 650px;">
-  Fusing algorithms, physics, and web technologies to create transformative digital experiences.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bushra%20Khandoker&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20learner%20%7C%20Builder%20%7C%20Problem%20solver&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%"/>
 
 </div>
 
+<br/>
+
+
+
+<br/>
 <!-- GitHub Stats & Languages -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   <img 
@@ -45,66 +47,222 @@
   />
 </div>
 
-## 🌟 About Me
+<div align="center">
 
-I'm **Bushra Khandoker**, a learner from Bangladesh with a passion for merging computational algorithms, physics-inspired problem-solving, and modern web development. My mission is to create transformative digital experiences that empower learners and developers alike. Driven by curiosity and a commitment to excellence, I specialize in crafting intuitive educational tools, optimizing complex algorithms, and delivering polished full-stack applications.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-bushra-khandoker.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Bushraabir)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bushrakhandoker2@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
 
----
-
-<!-- Tech Stack Icons Container -->
-<div align="center" style="background-color: #1C1F2E; padding: 25px; border-radius: 15px; margin: 40px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" title="React" style="margin-left: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="48" alt="Tailwind CSS" title="Tailwind CSS" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" title="Next.js" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase" title="Firebase" style="margin-left: 10px;" />
 </div>
 
 ---
 
-<!-- GitHub Trophies & Profile Views -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 40px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bushraabir&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" style="border-radius: 10px; border: 2px solid #FF6B6B;" />
-  <img src="https://komarev.com/ghpvc/?username=Bushraabir&style=flat-square&color=00D1FF&label=Profile+Views" alt="profile views" style="border-radius: 8px; border: 2px solid #00D1FF;" />
+## who am I
+
+Hi, I’m **Bushra** — a Computer Science learner from **Bangladesh** who loves turning difficult ideas into something clear, visual, and useful.
+
+I spend most of my time with:
+
+* **algorithms and data structures**
+* **competitive programming**
+* **building products that teach**
+* **math, probability, and CS foundations**
+* **dreaming big about where this path can lead**
+
+Right now, I’m building **PhyCode** — a platform that makes algorithms feel less abstract and more alive.
+
+---
+
+## What I care about most
+
+I am not just trying to “learn coding.”
+I’m trying to build the kind of mindset that can solve hard problems with calm, structure, and creativity.
+
+That means I care about:
+
+* writing clean and thoughtful code
+* understanding the why behind every algorithm
+* staying consistent even when progress feels slow
+* building projects that actually help people learn
+* preparing for a future in top-tier software, research, and problem solving
+
+---
+
+## Currently focused on
+
+| Area                           | What I’m doing                                                    |
+| ------------------------------ | ----------------------------------------------------------------- |
+| 🧩 **DSA**                     | Strengthening fundamentals in trees, graphs, DP, greedy, and more |
+| 🏆 **Competitive Programming** | Practicing daily to build speed, intuition, and discipline        |
+| 🛠 **PhyCode**                 | Designing an interactive learning platform for CS students        |
+| 📐 **Math for CS**             | Studying probability, statistics, and the logic behind ML         |
+| 🔬 **Long-term growth**        | Preparing for advanced software engineering and research paths    |
+
+---
+
+## Technical skills
+
+<details>
+<summary><b>⚙️ Languages I use</b></summary>
+<br/>
+
+| Language                    | Comfort level | What I use it for                    |
+| --------------------------- | ------------- | ------------------------------------ |
+| **C++**                     | Strong        | DSA, competitive programming, STL    |
+| **Python**                  | Intermediate  | Scripting, logic, ML foundations     |
+| **JavaScript / TypeScript** | Strong        | Web development and interactive apps |
+
+</details>
+
+<details>
+<summary><b>🔬 Algorithms & Data Structures</b></summary>
+<br/>
+
+**Core structures**
+
+```txt
+Arrays & Strings   ·   Linked Lists   ·   Stacks & Queues
+Trees & BSTs       ·   Heaps          ·   Graphs
+Hash Maps          ·   Tries           ·   Disjoint Sets
+```
+
+**Problem-solving patterns**
+
+```txt
+Greedy Algorithms     ·   Dynamic Programming   ·   Divide & Conquer
+Binary Search         ·   Two Pointers          ·   Sliding Window
+Backtracking          ·   Graph Traversals      ·   Sorting & Searching
+```
+
+</details>
+
+<details>
+<summary><b>🌐 Web development</b></summary>
+<br/>
+
+**Frontend**
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* HTML5 / CSS3
+* Recoil
+
+**Backend & tools**
+
+* Firebase
+* Node.js
+* REST APIs
+* Git & GitHub
+* Vercel
+
+</details>
+
+---
+
+## Featured projects
+
+### [`PhyCode`](https://github.com/Bushraabir/PhyCode)
+
+**An interactive CS learning platform**
+
+A project built around one simple idea:
+**students understand better when they can see how things work.**
+
+```txt
+Next.js  ·  TypeScript  ·  Tailwind CSS  ·  Recoil  ·  Firebase
+```
+
+What makes it special:
+
+* visual algorithm learning
+* modern, responsive UI
+* authentication and user flow
+* built with future expansion in mind
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Bushraabir/PhyCode)
+
+---
+
+### [`LeetCode Solutions Library`](https://github.com/Bushraabir/Leetcode_Solutions_cpp)
+
+**A growing collection of C++ solutions**
+
+This is where I train my thinking, one problem at a time.
+
+```txt
+C++  ·  STL  ·  Problem Solving  ·  Complexity Analysis
+```
+
+Why I keep it:
+
+* clean and readable solutions
+* topic-wise organization
+* complexity notes
+* explanations that help me remember the logic, not just the code
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Bushraabir/Leetcode_Solutions_cpp)
+
+---
+
+## My learning roadmap
+
+```txt
+2024 ─────────────────────────────────────────────────────────▶ 2025+
+
+✅ Core DSA         ✅ C++ mastery        ✅ React / Next.js
+✅ LeetCode habit   ✅ PhyCode v1         🔄 Advanced graphs & DP
+🔄 ML foundations   🔄 System design      ⬜ Research projects
+⬜ Open source      ⬜ Competitive CP      ⬜ Internship / research
+```
+
+---
+
+## A little about how I think
+
+I like deep understanding more than shallow progress.
+
+To me, good code is:
+
+* simple enough to read
+* strong enough to scale
+* honest about trade-offs
+* built with intention
+
+I’m not trying to look smart.
+I’m trying to become genuinely capable.
+
+---
+
+## Philosophy
+
+<div align="center">
+
+*"Every difficult system becomes understandable when you break it into small enough truths."*
+
 </div>
 
-## 🛠 Technical Expertise & Skill Set
-
-| Category                  | Technologies & Competencies                          |
-|---------------------------|-----------------------------------------------------|
-| **Programming Languages** | C • C++ • Python • JavaScript • TypeScript           |
-| **Frontend Development**  | React.js • Next.js • Tailwind CSS • HTML5 • CSS3     |
-| **Backend & Databases**   | Firebase • Node.js • REST APIs                        |
-| **State Management & UX** | Recoil • Redux • Client-side auth flows • Accessibility (WCAG 2.1) |
-| **Data Structures & Algorithms (DSA/CP)** | Linked Lists • Stacks • Queues • Trees • Graphs • Dynamic Programming • Greedy Algorithms • STL |
-| **Tools & Practices**     | Git • GitHub • VS Code • Unit & Integration Testing • Agile Methodologies |
-| **Specializations**       | Competitive Programming • EdTech Solutions • Physics-based Algorithm Visualizations |
-
 ---
 
-## 🚀 Highlighted Projects & Innovations
+## Open to
 
-### PhyCode – Advanced Interactive Learning Platform
-- **Tech Stack:** Next.js • Recoil • Tailwind CSS • Node.js • Firebase  
-- **Overview:** A responsive platform with advanced UI/UX, featuring particle backgrounds, interactive tutorials, and secure authentication.  
-- **Innovations:** Real-time collaboration, adaptive learning paths, and analytics dashboards.  
-- **Impact:** Boosts algorithm comprehension by up to 40% with visualizations and guided practice.  
-- **Links:** [GitHub](https://github.com/Bushraabir/PhyCode) | [Live Demo](https://phy-code.vercel.app/)
+I’m open to:
 
-### Problem Solver Library – Algorithms in C/C++/Python
-- **Overview:** A curated repo of production-grade solutions with problem statements, approach notes, complexity, and commented code.  
-- **Innovations:** Searchable index, CI/CD testing, and performance benchmarks.  
-- **Link:** [GitHub](https://github.com/Bushraabir/problem-solver-library) *(Replace with actual link if available.)*
+* collaborations
+* research opportunities
+* software engineering roles
+* learning from people who build seriously
+* projects that combine logic, design, and impact
 
----
+<br/>
 
-## Contact & Links
-- **GitHub:** [https://github.com/Bushraabir](https://github.com/Bushraabir)  
-- **Email:** [bushrakhandoker2@gmail.com](mailto:bushrakhandoker2@gmail.com)  
-- **Portfolio Website:** [(https://portfolio-bushra-khandoker.vercel.app/)](https://portfolio-bushra-khandoker.vercel.app/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-bushra-khandoker.vercel.app/)
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bushrakhandoker2@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+</div>
