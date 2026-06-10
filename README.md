@@ -185,16 +185,6 @@ Maintaining a structured **Obsidian knowledge vault** connecting linear algebra 
 
 ---
 
-## Featured Repositories
-
-<div align="center">
-
-[![Bushal](https://github-readme-stats.vercel.app/api/pin/?username=bushrakhandoker708&repo=bushal&theme=radical&hide_border=true)](https://github.com/bushrakhandoker708/bushal)
-[![PhyCode](https://github-readme-stats.vercel.app/api/pin/?username=bushrakhandoker708&repo=PhyCode&theme=radical&hide_border=true)](https://github.com/bushrakhandoker708/PhyCode)
-
-</div>
-
-
 
 <div align="center">
 
