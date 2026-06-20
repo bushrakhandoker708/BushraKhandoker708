@@ -20,7 +20,7 @@
 
 ## Who I Am
 
-I'm **Bushra Khandoker** — a Computer Science student at the **University of Greenwich (UK, Year 3)**, building at the intersection of **systems engineering, AI/ML, and product development**.
+I'm **Bushra Khandoker** — a Computer Science student, building at the intersection of **systems engineering, AI/ML, and product development**.
 
 I don't just write code. I architect production systems, study machine learning from first principles, and solve real problems with measurable impact. My work spans from bKash-integrated e-commerce platforms in Bangladesh to interactive algorithm visualizers — each project grounded in genuine engineering depth.
 
